@@ -19,4 +19,4 @@ ruby -v and because newer versions have new methods or idioma different from the
 How to run a program with a movie title consisting of several words, e.g. "The Matrix"?
 
 What is ARGV?
-ARGV "contains the arguments passed to your script, one per element."
+ARGV "contains the arguments passed to your script via the command line, one per element."
