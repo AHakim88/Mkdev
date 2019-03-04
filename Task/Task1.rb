@@ -14,7 +14,7 @@ So we able to see our code clearly. Help us to understand the editor what color 
 
 
 How to check what version of Ruby is installed, and why does it matters?
-ruby -v and because newer versions have new methods or idomatics different from the previous versions. 
+ruby -v and because newer versions have new methods or idioma different from the previous versions. 
 
 How to run a program with a movie title consisting of several words, e.g. "The Matrix"?
 
